@@ -1,0 +1,14 @@
+@misc{ian_dunlop_2016_167595,  
+author       = {Ian Dunlop and  
+                Egon Willighagen and  
+                Elblood and  
+                andrawaag and  
+                Stian Soiland-Reyes and  
+                PANDORINO and
+                Morton Fox},  
+title        = {ops.js: OPS.js 7.1.0 for Open PHACTS 2.2 API},
+month        = jan,
+year         = 2018,
+doi          = {10.5281/zenodo.167595},  
+url          = {http://dx.doi.org/10.5281/zenodo.167595}  
+} 
